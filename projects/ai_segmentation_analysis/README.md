@@ -41,7 +41,7 @@ Example of segmentation overlays in orthogonal CT slices.
 
 Segment statistics were computed using the Segment Statistics module.
 
-![Segment Statistics Table](segment_statistics.png)
+![Segment Statistics Table](segment_statistics.tsv)
 
 ## Discussion
 
