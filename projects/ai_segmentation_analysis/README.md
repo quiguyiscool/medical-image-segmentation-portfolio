@@ -32,16 +32,16 @@ Example of segmentation overlays in orthogonal CT slices.
 
 Example of segmentation overlays in orthogonal CT slices.
 
-![Multiplanar Segmentation Overlay](figures/multiplanar_overlay.png)
+![Multiplanar Segmentation Overlay](multiplanar_overlay.png)
 ### Tumor Segmentation
 
-![Tumor Segmentation Example](figures/tumor_zoom.png)
+![Tumor Segmentation Example](tumor_zoom.png)
 
 ## Quantitative Results
 
 Segment statistics were computed using the Segment Statistics module.
 
-![Segment Statistics Table](figures/segment_statistics.png)
+![Segment Statistics Table](segment_statistics.png)
 
 ## Discussion
 
