@@ -28,19 +28,20 @@ The dataset consists of a cropped CT scan stored in NIfTI format along with segm
 
 Example of segmentation overlays in orthogonal CT slices.
 
-*(Insert your screenshot here)*
+## Visualization
+
+Example of segmentation overlays in orthogonal CT slices.
+
+![Multiplanar Segmentation Overlay](figures/multiplanar_overlay.png)
+### Tumor Segmentation
+
+![Tumor Segmentation Example](figures/tumor_zoom.png)
 
 ## Quantitative Results
 
 Segment statistics were computed using the Segment Statistics module.
 
-| Structure | Volume (mm³) | Volume (cm³) |
-|-----------|-------------|-------------|
-| Tumor | 27.15 | 0.027 |
-| Lung | 194.43 | 0.194 |
-| Heart | 191.90 | 0.192 |
-| Liver | 939.92 | 0.940 |
-| Kidney | 235.63 | 0.236 |
+![Segment Statistics Table](figures/segment_statistics.png)
 
 ## Discussion
 
