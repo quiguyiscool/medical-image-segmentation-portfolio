@@ -41,7 +41,13 @@ Example of segmentation overlays in orthogonal CT slices.
 
 Segment statistics were computed using the Segment Statistics module.
 
-![Segment Statistics Table](segment_statistics.tsv)
+| Structure | Volume (mm³) | Volume (cm³) |
+|-----------|-------------|-------------|
+| Tumor | 27.15 | 0.027 |
+| Lung | 194.43 | 0.194 |
+| Heart | 191.90 | 0.192 |
+| Liver | 939.92 | 0.940 |
+| Kidney | 235.63 | 0.236 |
 
 ## Discussion
 
